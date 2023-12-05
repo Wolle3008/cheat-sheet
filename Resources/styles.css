@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: beige;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    color: red;
+    font-family: "Lucida Console", Courier, monospace;
+}
+
+h2 {
+    font-size: 25px;
+    text-align: center;
+    color: orangered;
+    font-family: "Lucida Console", Courier, monospace;
+}
+
+table {
+    margin: 0 auto;
+    border: 1px solid orangered;
+    font-family: "Lucida Console", Courier, monospace;
+    width: 900px;
+}
+
+th {
+    background-color: darkorange;
+}
+
+td {
+    border-bottom: 1px solid orangered;
+}
+
+.code {
+    background-color: wheat
+}
+
+.last {
+    border-bottom: 0;
+}
